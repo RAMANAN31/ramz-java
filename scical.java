@@ -1,4 +1,4 @@
-import java.lang.Meth;
+import java.lang.Math;
 
 public class scical
 {
